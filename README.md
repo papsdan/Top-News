@@ -1,2 +1,2 @@
 # Top-News
-An application that brings you top news by country and category
+An application that brings you the top headlines by country and category
